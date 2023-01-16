@@ -14,7 +14,7 @@ $length(row|column) - sum(nonogramValues) =< highestNonogramValue$
 ## How to install
 Two ways to install:  
 - Install this extension through [Chrome Web Store](https://chrome.google.com/webstore/detail/nonogram-sum/abbiamngfddbchblmmjkanlgaepkkkde)  
-- Follow this [Chrome guide](https://developer.chrome.com/docs/extensions/mv3/faq/#faq-dev-01) to use files locally.  
+- ZIP and Extract this repository to your wanted location and follow this [Chrome guide](https://developer.chrome.com/docs/extensions/mv3/faq/#faq-dev-01)  
 
 ## Extension in use
 
