@@ -1,14 +1,20 @@
 # nonogram-sum
+Works only in [Google Chrome](https://www.google.com/chrome/)  
 Works only in https://www.nonograms.org/  
-Works for "Black & white" and "Colour" nonograms
+Works for "Black & White" and "Colour" nonograms
 
 ## Motivation
-I enjoy doing nonograms but finding starting points became too tedious.
+Finding possible starting points in large nonograms became too tedious.
 
 ## What this extension does
 -  Sums rows and columns of nonogram including possible spaces.  
 -  🟩 If there is overlap  
 $length(row|column) - sum(nonogramValues) =< highestNonogramValue$  
+
+## How to install
+Two ways to install:  
+- Install this extension through [Chrome Web Store](https://chrome.google.com/webstore/detail/nonogram-sum/abbiamngfddbchblmmjkanlgaepkkkde)  
+- Follow this [Chrome guide](https://developer.chrome.com/docs/extensions/mv3/faq/#faq-dev-01) to use files locally.  
 
 ## Extension in use
 
